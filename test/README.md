@@ -1,4 +1,4 @@
-
+ 
 # githubの設定
 optionからwebhookのプログラムのURLを指定する
 
